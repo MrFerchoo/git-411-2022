@@ -43,6 +43,7 @@ Una rama es una subdivision de otravrama a partir de otro punta
  *git ckeckout (Nombre de la rama que recibe)
 - Itegramos ambas ramas
  *git merge (Nombre de la rama con cambios)
+ *git push
 //////////////////////////////////////////////////////////////
 
 //Remota / Origin
