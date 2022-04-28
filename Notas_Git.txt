@@ -34,8 +34,16 @@ Una rama es una subdivision de otravrama a partir de otro punta
  -Sincronizar la rama en la nube
  * git push --set-upstream origin (Nombre de la rama)
 ////////////////////////////////////////////////////////////////
-
-
+//Itegracion de una rama a otra
+-Actualizamos ambas ramas
+ * git fetch
+  * git pull
+  (Repetir estos comandos en las 2 ramas)
+- Nos cambiamos a la rama que va a reciibir lkos cambios
+ *git ckeckout (Nombre de la rama que recibe)
+- Itegramos ambas ramas
+ *git merge (Nombre de la rama con cambios)
+//////////////////////////////////////////////////////////////
 
 //Remota / Origin
 - origin/main
