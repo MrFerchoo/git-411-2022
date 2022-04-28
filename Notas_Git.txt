@@ -1,0 +1,27 @@
+git clone (URL REPO) --Descarga el repositorio
+
+git status -- Nos permite conocer el estatus de
+sincronizacion de la rama remota y local y si hay 
+archivos modificados pendientes de modificar
+
+////////////////////////////
+//Pasos para subir cambios//
+////////////////////////////
+(Para regresar un archivo es (restore --staged (nombre dek archivo)))
+
+-Preparar los archivos que queremos subir
+ *git add (Nombre del archivo) o git add . <Para todos>
+
+-Crear un commit
+ *git commit -m (mensaje)
+
+-Hacer un push
+ *git push
+
+
+
+//Remota / Origin
+- origin/main
+
+//local
+- main
