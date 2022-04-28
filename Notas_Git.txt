@@ -28,6 +28,8 @@ archivos modificados pendientes de modificar
 Una rama es una subdivision de otravrama a partir de otro punta
 - crear una rama
  * git chechout -b (nombre de la rama)
+ -Sincronizar la rama en la nube
+ * git push --set-upstream origin (Nombre de la rama)
 
 //Remota / Origin
 - origin/main
