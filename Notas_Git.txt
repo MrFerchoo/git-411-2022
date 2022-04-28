@@ -18,6 +18,11 @@ archivos modificados pendientes de modificar
 -Hacer un push
  *git push
 
+//Para descargar cambios desde la nube
+- Actualizar el historial de commits
+ *git fetch
+- Descargar los Commits faltantes
+ * git pull
 
 
 //Remota / Origin
